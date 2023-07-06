@@ -127,6 +127,7 @@
   height: 80vh;
 }
 .movie-grid-details{
+  width: 100%;
   padding: 0 2em;
   display: flex;
   flex-direction: column;
