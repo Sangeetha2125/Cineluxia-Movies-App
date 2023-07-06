@@ -130,9 +130,9 @@
   padding: 0 2.5em;
   display: flex;
   flex-direction: column;
-  width:100%;
 }
 .movie-grid-details h1{
+  width: 100%;
   padding: 1em 0;
   padding-bottom: 0.3em;
   letter-spacing: 1px;
@@ -146,6 +146,7 @@
   padding-bottom: 1.5em;
 }
 .movie-grid-details p{
+  width: 100%;
   line-height: 2;
   text-align: justify;
   font-size: 1.2em;
