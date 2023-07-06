@@ -117,7 +117,6 @@
   margin:1.5em auto;
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
 }
 .movie-details .bd_path{
   display: none;
@@ -128,7 +127,7 @@
   height: 80vh;
 }
 .movie-grid-details{
-  padding: 0 2em;
+  padding: 0 2.5em;
   display: flex;
   flex-direction: column;
 }
